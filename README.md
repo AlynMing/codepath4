@@ -1,8 +1,4 @@
-# codepath4
-
-===
-
-# APP_NAME_HERE
+# RTM Calander
 
 ## Table of Contents
 1. [Overview](#Overview)
@@ -13,11 +9,12 @@
 ## Overview
 ### Description
 [Description of your app]
+In our app,'Calendar', users can create calendar events and daily tasks on the go.  User's can preview, depending on the view ,which consists of the day, week, or month's prospective, if a day contains an event and click on it to learn more information. Users can also devise a list of daily tasks on a todo list. Items from this list can be added, deleted and modified to the user's wishes and completed tasks can be marked as complete. 
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
 - **Category: Productivity**
-- **Mobile:**
+- **Mobile: This app would be primarily used on mobile devices so the user can create events and tasks on the go. In future developments, the app could be used on other devices(i.e. laptops, desktops) that would provide a greater view of the app. It could potentially include the most, if all, of the features of mobile devices. **
 - **Story: Allows user to monitor events by day, week, or month. The events are displayed to the user, and the user can add tasks to a to do list.**
 - **Market: This app is open for any individual to use.**
 - **Habit: This app can be used daily to keep track of events and tasks.**
