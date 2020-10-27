@@ -82,15 +82,18 @@ In our app,'Calendar', users can create calendar events and daily tasks on the g
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
-[Add table of models]
+[Event]
 
 <!-- TABLE_GENERATE_START -->
 
 
 | First Header  | Second Header | Third Header|
 | ------------- | ------------- | ------------|
-| Content Cell  | Content Cell  |     content |
-| Content Cell  | Content Cell  |   content   |
+| eventid       | string        |name of event|
+| ------------- | ------------- | ------------|
+| dateid        | string        |date of event|
+| --------------| ------------- | ------------|
+| locationid    | string        |location of event|
 
 
 <!-- TABLE_GENERATE_END -->
