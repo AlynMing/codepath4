@@ -88,13 +88,21 @@ In our app,'Calendar', users can create calendar events and daily tasks on the g
 
 
 | First Header  | Second Header | Third Header|
+| ------------- | ------------- | ------------|
 | savebutton    | pointerforevent| for keeping track of event|
+| ------------- | ------------- | ------------|
 | eventid       | string        |name of event|
+| ------------- | ------------- | ------------|
 | description   | string        |description of event|
+| ------------- | ------------- | ------------|
 | dateid        | DateTime      |date of event|
+| ------------- | ------------- | ------------|
 | datepointer   | pointerfordate |to help keep track of date|
+| ------------- | ------------- | ------------|
 | locationid    | string        |location of event|
+| ------------- | ------------- | ------------|
 | tasktitle     | string        |title of task|
+| ------------- | ------------- | ------------|
 | taskdate      | string        |date of task|
 
 
