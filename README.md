@@ -71,7 +71,7 @@ In our app,'Calendar', users can create calendar events and daily tasks on the g
    * List -> Text Input Field -> List
 
 ## Wireframes
-<img src="https://drive.google.com/file/d/1MxYL-Ad-m_dkH5sT4AgD2A9julkOuP8Z/view" width=600>
+<img src="https://i.ibb.co/yR59hhT/wireframes.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
