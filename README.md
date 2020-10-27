@@ -71,8 +71,7 @@ In our app,'Calendar', users can create calendar events and daily tasks on the g
    * List -> Text Input Field -> List
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="http://tny.im/n6K" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
