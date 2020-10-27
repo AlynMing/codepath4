@@ -1,4 +1,4 @@
-# RTM Calender
+# RTM Calendar
 
 ## Table of Contents
 1. [Overview](#Overview)
