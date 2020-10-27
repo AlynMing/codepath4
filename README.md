@@ -84,11 +84,16 @@ In our app,'Calendar', users can create calendar events and daily tasks on the g
 ### Models
 [Add table of models]
 
-|    n/a |
-- - - -
-|   n/a  |
-|        |
-|        |
+<!-- TABLE_GENERATE_START -->
+
+
+| First Header  | Second Header | Third Header|
+| ------------- | ------------- | ------------|
+| Content Cell  | Content Cell  |     content |
+| Content Cell  | Content Cell  |   content   |
+
+
+<!-- TABLE_GENERATE_END -->
 ### Networking
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
