@@ -26,6 +26,7 @@ In our app,'Calendar', users can create calendar events and daily tasks on the g
 
 **Required Must-have Stories**
 
+* Create Parse Server
 * Compose an event on the timeline
 * View event by day, week, and month
 * Edit events
