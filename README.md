@@ -78,12 +78,9 @@ In our app,'Calendar', users can create calendar events and daily tasks on the g
 
 <img src="https://lucid.app/publicSegments/view/d4a280e2-97bf-40e9-a716-ea018e323e9e/image.jpeg" width=600>
 
-### [BONUS] Interactive Prototype
-
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
-[Event]
 
 <!-- TABLE_GENERATE_START -->
 
