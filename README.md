@@ -111,6 +111,7 @@ In our app,'Calendar', users can create calendar events and daily tasks on the g
   - (Read/GET) Get all posts created by User and sort them on Calendar
   - (Update/PUT) Update the Calendar Screen with new events
   - (Delete) Delete Events
+  - (Update/PUT) Update the Calendar after Deleted Events
   
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
