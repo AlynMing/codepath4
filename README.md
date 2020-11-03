@@ -8,11 +8,9 @@
 
 ## Overview
 ### Description
-[Description of your app]
 In our app,'Calendar', users can create calendar events and daily tasks on the go.  User's can preview, depending on the view ,which consists of the day, week, or month's prospective, if a day contains an event and click on it to learn more information. Users can also devise a list of daily tasks on a todo list. Items from this list can be added, deleted and modified to the user's wishes and completed tasks can be marked as complete. 
 
 ### App Evaluation
-[Evaluation of your app across the following attributes]
 - **Category:** Productivity
 - **Mobile:** This app would be primarily used on mobile devices so the user can create events and tasks on the go. In future developments, the app could be used on other devices(i.e. laptops, desktops) that would provide a greater view of the app. It could potentially include the most, if all, of the features of mobile devices.
 - **Story:** Allows user to monitor events by day, week, or month. The events are displayed to the user, and the user can add tasks to a to do list.
@@ -79,7 +77,6 @@ In our app,'Calendar', users can create calendar events and daily tasks on the g
 <img src="https://lucid.app/publicSegments/view/d4a280e2-97bf-40e9-a716-ea018e323e9e/image.jpeg" width=600>
 
 ## Schema 
-[This section will be completed in Unit 9]
 ### Models
 
 <!-- TABLE_GENERATE_START -->
@@ -107,6 +104,13 @@ In our app,'Calendar', users can create calendar events and daily tasks on the g
 
 <!-- TABLE_GENERATE_END -->
 ### Networking
-- [Add list of network requests by screen ]
+- Compose Screen
+  - (Create/POST) For new Calendar Event object
+  - (Update/PUT) Update already composed Calendar Events
+- Calendar Screen
+  - (Read/GET) Get all posts created by User and sort them on Calendar
+  - (Update/PUT) Update the Calendar Screen with new events
+  - (Delete) Delete Events
+  
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
