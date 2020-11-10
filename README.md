@@ -1,3 +1,6 @@
+https://i.imgur.com/8GvSmLn.gif
+
+
 # RTM Calendar
 
 ## Table of Contents
