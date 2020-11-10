@@ -1,6 +1,3 @@
-https://i.imgur.com/8GvSmLn.gif
-
-
 # RTM Calendar
 
 ## Table of Contents
@@ -119,5 +116,8 @@ In our app,'Calendar', users can create calendar events and daily tasks on the g
   - (Delete) Delete Events
   - (Update/PUT) Update the Calendar after Deleted Events
   
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://i.imgur.com/8GvSmLn.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
