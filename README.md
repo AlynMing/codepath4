@@ -8,7 +8,7 @@
 
 ## Overview
 ### Description
-In our app,'Calendar', users can create calendar events and daily tasks on the go.  User's can preview, depending on the view ,which consists of the day, week, or month's prospective, if a day contains an event and click on it to learn more information. Users can also devise a list of daily tasks on a todo list. Items from this list can be added, deleted and modified to the user's wishes and completed tasks can be marked as complete. 
+In our app,'Calendar', users can create calendar events and daily tasks on the go.  User's can preview, depending on the view ,which consists of the day, week, or month's prospective, if a day contains an event and click on it to learn more information. Users can also devise a list of daily tasks on a todo list. Items from this list can be added, deleted and modified to the user's wishes. 
 
 ### App Evaluation
 - **Category:** Productivity
@@ -25,18 +25,16 @@ In our app,'Calendar', users can create calendar events and daily tasks on the g
 **Required Must-have Stories**
 
 - [x] Create Parse Server
-- [] Compose an event on the timeline
+- [x] Compose an event on the timeline
+* View event by
+     - [x] Month
+- [x] Compose a task on the to-do list
+- [x] Bottom navigation view
+
+**Optional Nice-to-have Stories**
 * View event by
      - [ ] Day
      - [ ] Week
-     - [x] Month
-- [ ] Edit events
-- [x] Compose a task on the to-do list
-- [x] Bottom navigation view
-- [ ] User can mark tasks completed on the to-do list
-
-**Optional Nice-to-have Stories**
-
 * Use Google API to show location of events
 * Share events by email
 
