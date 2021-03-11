@@ -24,12 +24,12 @@ In our app,'Calendar', users can create calendar events and daily tasks on the g
 
 **Required Must-have Stories**
 
-- [x] Create Parse Server
-- [x] Compose an event on the timeline
+- [ ] Create Parse Server
+- [ ] Compose an event on the timeline
 * View event by
-     - [x] Month
-- [x] Compose a task on the to-do list
-- [x] Bottom navigation view
+     - [ ] Month
+- [ ] Compose a task on the to-do list
+- [ ] Bottom navigation view
 
 **Optional Nice-to-have Stories**
 * View event by
